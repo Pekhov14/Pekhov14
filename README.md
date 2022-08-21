@@ -3,8 +3,8 @@
 [![Header](https://github.com/Pekhov14/Pekhov14/blob/main/assets/header.jpeg)](https://www.linkedin.com/in/anton-pekhov/)
 
 
-### Hi there 👋
-
+## Hi there 👋
+### I`m software developer
 
 
 
