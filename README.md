@@ -19,4 +19,4 @@
 #### Follow me
 [![linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/anton-pekhov)
 
-![Pekhov14 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pekhov14&count_private=true&show_icons=true)
+![Pekhov14 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pekhov14&count_private=true&show_icons=true&theme=radical)
