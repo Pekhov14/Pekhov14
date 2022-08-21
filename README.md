@@ -16,8 +16,8 @@
 ![react](https://img.shields.io/badge/react-090909?style=for-the-badge&logo=react)
 ![opencart](https://img.shields.io/badge/opencart-090909?style=for-the-badge)
 
-
-
+#### Follow me
+[![linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anton-pekhov)
 
 
 
